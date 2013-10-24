@@ -346,7 +346,7 @@
 											 <br><a href="http://sample.avfconsultancy.org/" target="_blank">Please follow this for more Details.</a>
 											<br><br>
 											<ul>
-												<li><strong>Schedule : </strong>26th Oct - Round 1 : 9-10am  | 27th Oct - Round 2 : 2-4pm</li>
+												<li><strong>Schedule : </strong>26th Oct - Round 1 : 9-10am  | 27th Oct - Round 2 : 1:30-4pm</li>
 												<li><strong>Event Co-ordinator :</strong> Shubham Tiwari | Aditya Ranjan | Rajesh Pathak</li>
 												<li><strong>Contact :</strong> +91-9796-289195 | +91-9796-824820 | +91-9086-252184</li>
 											</ul>
